@@ -1,0 +1,93 @@
+[
+  {
+    "id": "mapping-modeling-ethnobotany",
+    "title": "From Mapping to Modeling: Spatial Statistics in Ethnobotanical Research",
+    "authors": ["Muh Akbar Idris", "Ade Ariyo Yudanto", "Mufrih Nur Huda Tri Putra", "Reyuli Andespa", "Nabila Syukri", "Fadila Fadila", "Iin Safira", "Zamrah Mutmainah", "Unique Desyrre A. Resiloy"],
+    "journal": "Ethnobotany Research and Applications",
+    "year": 2026,
+    "doi": "10.32859/era.34.56.1-10",
+    "abstract": "A review of the role and development of spatial statistical methods in ethnobotanical research, from descriptive mapping toward explanatory and predictive modeling.",
+    "keywords": ["Spatial Statistics", "Ethnobotany", "GIS", "Spatial Modeling"],
+    "pdf": "https://doi.org/10.32859/era.34.56.1-10",
+    "citations": 0,
+    "bibtex": "@article{idris2026mapping,\n  title={From Mapping to Modeling: Spatial Statistics in Ethnobotanical Research},\n  author={Idris, Muh Akbar and Yudanto, Ade Ariyo and Putra, Mufrih Nur Huda Tri and others},\n  journal={Ethnobotany Research and Applications},\n  year={2026},\n  doi={10.32859/era.34.56.1-10}\n}"
+  },
+  {
+    "id": "integrating-ethnobotany-quantitative",
+    "title": "Integrating Ethnobotany and Quantitative Methods: A Bibliometric Analysis of Statistical, Mathematical, and Data Science Approaches (2016–2025)",
+    "authors": ["Limba, S.Z.", "Awantara, I.G.", "Riansyah, B.", "Idris, M.A."],
+    "journal": "Ethnobotany Research and Applications",
+    "year": 2026,
+    "doi": "10.32859/era.34.37.1-9",
+    "abstract": "A bibliometric analysis of the integration of statistical, mathematical, and data science approaches within ethnobotanical scholarship between 2016 and 2025.",
+    "keywords": ["Bibliometrics", "Data Science", "Ethnobotany", "Quantitative Methods"],
+    "pdf": "https://doi.org/10.32859/era.34.37.1-9",
+    "citations": 0,
+    "bibtex": "@article{limba2026integrating,\n  title={Integrating Ethnobotany and Quantitative Methods},\n  author={Limba, S.Z. and Awantara, I.G. and Riansyah, B. and Idris, M.A.},\n  journal={Ethnobotany Research and Applications},\n  year={2026},\n  doi={10.32859/era.34.37.1-9}\n}"
+  },
+  {
+    "id": "clustering-central-java-education",
+    "title": "Clustering of Central Java Districts Based on Educational Indicators: A Comparison of K-Means and Hierarchical Methods",
+    "authors": ["Muhammad Syafiq", "Nabila Fida Millati", "Muh Akbar Idris", "Anwar Fitrianto", "Kevin Alifviansyah", "Erfiani Erfiani"],
+    "journal": "Journal of Mathematics, Computations and Statistics",
+    "year": 2026,
+    "doi": "10.35580/xen35m31",
+    "abstract": "A comparative study of K-Means and hierarchical clustering for identifying patterns among Central Java districts using educational indicators.",
+    "keywords": ["Clustering", "K-Means", "Hierarchical Clustering", "Education"],
+    "pdf": "https://doi.org/10.35580/xen35m31",
+    "citations": 0,
+    "bibtex": "@article{syafiq2026clustering,\n  title={Clustering of Central Java Districts Based on Educational Indicators},\n  author={Syafiq, Muhammad and Millati, Nabila Fida and Idris, Muh Akbar and others},\n  journal={Journal of Mathematics, Computations and Statistics},\n  year={2026},\n  doi={10.35580/xen35m31}\n}"
+  },
+  {
+    "id": "gwr-severely-stunting",
+    "title": "Pemodelan Geographically Weighted Regression (GWR) pada Prevalensi Severely Stunting di Indonesia Tahun 2023",
+    "authors": ["Muh Akbar Idris", "Muhammad Nur Aidi", "Zamrah Mutmainah", "Putri Nisrina Az-Zahra", "Nabillah Rahmatiah Tangke", "Mauizatun Hasanah"],
+    "journal": "Journal of Mathematics: Theory and Applications",
+    "year": 2025,
+    "doi": "10.31605/jomta.v7i1.4873",
+    "abstract": "Geographically weighted regression modeling of severely stunting prevalence in Indonesia using 2023 regional data.",
+    "keywords": ["GWR", "Spatial Statistics", "Stunting", "Indonesia"],
+    "pdf": "https://doi.org/10.31605/jomta.v7i1.4873",
+    "citations": 0,
+    "bibtex": "@article{idris2025gwr,\n  title={Pemodelan Geographically Weighted Regression pada Prevalensi Severely Stunting di Indonesia Tahun 2023},\n  author={Idris, Muh Akbar and Aidi, Muhammad Nur and Mutmainah, Zamrah and others},\n  journal={Journal of Mathematics: Theory and Applications},\n  year={2025},\n  doi={10.31605/jomta.v7i1.4873}\n}"
+  },
+  {
+    "id": "youth-empowerment-ecosystem",
+    "title": "Youth Empowerment in Ecosystem Management: Wawai Waste Foundation Autoethnographic Study Analysis",
+    "authors": ["Devid Saputra", "Muh Akbar Idris", "Deni Andika Pratama"],
+    "journal": "Jurnal Pemuda Indonesia",
+    "year": 2025,
+    "doi": "10.65125/nq8dv394",
+    "abstract": "An autoethnographic analysis of youth empowerment and participation in ecosystem management through the Wawai Waste Foundation.",
+    "keywords": ["Youth Empowerment", "Ecosystem Management", "Autoethnography"],
+    "pdf": "https://doi.org/10.65125/nq8dv394",
+    "citations": 0,
+    "bibtex": "@article{saputra2025youth,\n  title={Youth Empowerment in Ecosystem Management},\n  author={Saputra, Devid and Idris, Muh Akbar and Pratama, Deni Andika},\n  journal={Jurnal Pemuda Indonesia},\n  year={2025},\n  doi={10.65125/nq8dv394}\n}"
+  },
+  {
+    "id": "dbscan-fisheries-indonesia",
+    "title": "Pemetaan Produksi Perikanan Tangkap di Indonesia dengan Menggunakan Metode DBSCAN",
+    "authors": ["Muh Akbar Idris", "Apriyanto Apriyanto", "Rahmawati"],
+    "journal": "Journal of Mathematics: Theory and Applications",
+    "year": 2023,
+    "doi": "10.31605/jomta.v5i2.2930",
+    "abstract": "Mapping and clustering of capture fisheries production across Indonesia using the density-based DBSCAN method.",
+    "keywords": ["DBSCAN", "Clustering", "Fisheries", "Indonesia"],
+    "pdf": "https://doi.org/10.31605/jomta.v5i2.2930",
+    "citations": 0,
+    "bibtex": "@article{idris2023dbscan,\n  title={Pemetaan Produksi Perikanan Tangkap di Indonesia dengan Menggunakan Metode DBSCAN},\n  author={Idris, Muh Akbar and Apriyanto and Rahmawati},\n  journal={Journal of Mathematics: Theory and Applications},\n  year={2023},\n  doi={10.31605/jomta.v5i2.2930}\n}"
+  },
+  {
+    "id": "fixed-point-multiplicative",
+    "title": "Some Fixed Point Results on Multiplicative Metric Spaces",
+    "authors": ["Ahmad Ansar", "Muh. Akbar Idris"],
+    "journal": "Journal of Mathematics: Theory and Applications",
+    "year": 2022,
+    "doi": "10.31605/jomta.v4i1.1845",
+    "abstract": "A mathematical study establishing fixed point results in multiplicative metric spaces.",
+    "keywords": ["Fixed Point", "Metric Spaces", "Pure Mathematics"],
+    "pdf": "https://doi.org/10.31605/jomta.v4i1.1845",
+    "citations": 0,
+    "bibtex": "@article{ansar2022fixed,\n  title={Some Fixed Point Results on Multiplicative Metric Spaces},\n  author={Ansar, Ahmad and Idris, Muh. Akbar},\n  journal={Journal of Mathematics: Theory and Applications},\n  year={2022},\n  doi={10.31605/jomta.v4i1.1845}\n}"
+  }
+]
